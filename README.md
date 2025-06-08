@@ -11,9 +11,12 @@ To conduct an event study analyzing the impact of 15 major geopolitical and poli
 This project utilized Python with the Pandas and Matplotlib/Seaborn libraries. Daily market data was sourced programmatically from Yahoo Finance using the yfinance library. Key analytical techniques included:
 
 **Event Study Analysis:** Isolating 21-day windows around each event to measure market reaction.
+
 **Time-Series Analysis:** Calculating daily returns and cumulative returns.
+
 **Volatility Analysis:** Calculating and visualizing 30-day rolling volatility to measure market uncertainty.
-Data Visualization: Creating normalized timeline charts to compare performance across disparate indices.
+
+**Data Visualization:** Creating normalized timeline charts to compare performance across disparate indices.
 
 ## 3. Key Findings
 The analysis revealed several key patterns in how global markets react to shocks:
@@ -21,6 +24,10 @@ The analysis revealed several key patterns in how global markets react to shocks
 **Systemic vs. Regional Risk:** The visualizations clearly distinguish between systemic shocks (e.g., 2008 Financial Crisis, COVID-19 Pandemic) that cause synchronized spikes in volatility across all global markets, and regional political events (e.g., elections in Brazil, protests in India) whose impact is much more localized.
 Market Anticipation: For predictable events like the Iraq War, market volatility often rises before the event, with a muted reaction on the day itself. For surprising events like Brexit, the reaction is immediate and severe.`
 Divergent Economies: The master timeline chart visualizes the "two-speed" global economy post-2008, with US and Indian markets showing much stronger growth trajectories than those in the UK and Japan.`
+
+**Market Anticipation**: For predictable events like the Iraq War, market volatility often rises before the event, with a muted reaction on the day itself. For surprising events like Brexit, the reaction is immediate and severe.`
+
+**Divergent Economies:** The master timeline chart visualizes the "two-speed" global economy post-2008, with US and Indian markets showing much stronger growth trajectories than those in the UK and Japan.`
 
 https://github.com/user-attachments/assets/d854b621-9708-41cc-bafd-49f20be030fb
 
