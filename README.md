@@ -22,8 +22,6 @@ This project utilized Python with the Pandas and Matplotlib/Seaborn libraries. D
 The analysis revealed several key patterns in how global markets react to shocks:
 
 **Systemic vs. Regional Risk:** The visualizations clearly distinguish between systemic shocks (e.g., 2008 Financial Crisis, COVID-19 Pandemic) that cause synchronized spikes in volatility across all global markets, and regional political events (e.g., elections in Brazil, protests in India) whose impact is much more localized.
-Market Anticipation: For predictable events like the Iraq War, market volatility often rises before the event, with a muted reaction on the day itself. For surprising events like Brexit, the reaction is immediate and severe.`
-Divergent Economies: The master timeline chart visualizes the "two-speed" global economy post-2008, with US and Indian markets showing much stronger growth trajectories than those in the UK and Japan.`
 
 **Market Anticipation**: For predictable events like the Iraq War, market volatility often rises before the event, with a muted reaction on the day itself. For surprising events like Brexit, the reaction is immediate and severe.`
 
