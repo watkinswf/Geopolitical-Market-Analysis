@@ -51,4 +51,4 @@ https://github.com/user-attachments/assets/d854b621-9708-41cc-bafd-49f20be030fb
 The complete analysis is in the Jupyter Notebook: **[Geopolitics_Market_Analysis.ipynb]**
 The cleaned data is available in the CSV files.
 An interactive version of this analysis can be viewed on my **[Tableau Public Dashboard](https://public.tableau.com/app/profile/william.watkins5080/vizzes)**.
-A narrative summary is available on my **[LinkedIn Profile](link-to-your-linkedin-article)**.
+A narrative summary is available on my **[LinkedIn Profile](https://www.linkedin.com/in/wilwatkins/)**.
